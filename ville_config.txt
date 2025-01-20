@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "finnish": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "C:\\Programming\\claude\\",
+                "run",
+                "hello.py"
+            ]
+        }
+    }
+}
